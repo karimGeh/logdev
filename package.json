@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "A comprehensive TypeScript-first debugging and observability ecosystem for modern frontend development, featuring structured logging and Chrome DevTools integration.",
   "license": "MIT",
-  "author": "Your Agency Name / Your Name <email@example.com>",
+  "author": "Cairo Digital / Karim SAADELDIN <karim2jihad@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-repo/logdev"
+    "url": "https://github.com/karimGeh/logdev"
   },
   "keywords": [
     "logging",
